@@ -1,0 +1,42 @@
+﻿  AmmoCounter.cpp
+  Animation.cpp
+  Bullet.cpp
+  Enemy.cpp
+  Enemy1.cpp
+c:\users\yaman\source\repos\outinspace\outinspace\enemy1.cpp(21): warning C4018: '<': signed/unsigned mismatch
+  Enemy2.cpp
+c:\users\yaman\source\repos\outinspace\outinspace\enemy2.cpp(21): warning C4018: '<': signed/unsigned mismatch
+  Game.cpp
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(79): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(142): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(143): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(157): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(184): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(190): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(191): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(220): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(226): warning C4018: '<': signed/unsigned mismatch
+c:\users\yaman\source\repos\outinspace\outinspace\game.cpp(231): warning C4018: '<': signed/unsigned mismatch
+  Globals.cpp
+  main.cpp
+  Menu.cpp
+  MovingBackground.cpp
+c:\users\yaman\source\repos\outinspace\outinspace\movingbackground.cpp(15): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yaman\source\repos\outinspace\outinspace\movingbackground.cpp(24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\yaman\source\repos\outinspace\outinspace\movingbackground.cpp(26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Pickup.cpp
+  Player.cpp
+c:\users\yaman\source\repos\outinspace\outinspace\player.cpp(20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  ScoreCounter.cpp
+  Generating Code...
+  OutInSpace.vcxproj -> C:\Users\Yaman\source\repos\OutInSpace\Debug\OutInSpace.exe
