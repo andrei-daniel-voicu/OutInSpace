@@ -13,9 +13,6 @@ The game is the computer science graduation project taken at the end of 12th gra
 ## :hammer: Building
 In order to build the project, you need to link it with the precompiled libraries of SFML and Thor.
 
-## :running: Running
-To run the executable, use the provided Makefile with the **run** rule. Note that the executable expects both config files as arguments.
-
 ## :page_facing_up: License
 This project is available under the [MIT][ref-mit] license; see [LICENSE](LICENSE) for the full license text.
 
