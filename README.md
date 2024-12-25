@@ -7,7 +7,7 @@ The game is the computer science graduation project taken at the end of 12th gra
 ## :trophy: Features
   &nbsp;&nbsp; :small_orange_diamond: Pickups
   &nbsp;&nbsp; :small_orange_diamond: Endless gameplay  
-  &nbsp;&nbsp; :small_orange_diamond: Hand-drawn pixel animations
+  &nbsp;&nbsp; :small_orange_diamond: Hand-drawn pixel animations 
   &nbsp;&nbsp; :small_orange_diamond: Music + sounds
 
 
